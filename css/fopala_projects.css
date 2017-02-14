@@ -1,0 +1,65 @@
+/*HTML and HTML5*/
+html, body, section.container{
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+section.container{
+	background-color: rgba(46, 204, 113, 0.9);
+}
+
+header h1{
+	color: #fff;
+	font-family: 'Roboto', 'Open Sans', sans-serif;
+	font-weight: 100;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+header h2{
+	color: #fff;
+	font-family: 'Roboto', 'Open Sans', sans-serif;
+	font-weight: 100;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.intern-container{
+	width: 95%;
+	min-height:  80%;
+	margin: 0px auto;
+	box-shadow: 2px 2px 5px #95a5a6;
+	background-color: #fff;
+}
+
+/*.intern-container article{
+	
+}
+
+.intern-container article img{
+	border: 1px solid #333;
+	width: 150px;
+	display: inline-block;
+	min-height: 150px;
+}*/
+
+aside .indexer{
+	padding: 20px 0px;
+	border-bottom: 2px solid #ddd;
+}
+
+#apis h2{
+	font-family: 'Roboto', 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#content{
+	border-left: 1px solid #ddd;
+	height: 100%;
+	background-color: #000;
+}
